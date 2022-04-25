@@ -1,0 +1,5 @@
+- Pada pertemuan sebelumnya sudah kita selesaikan metode leasr square dengan menggunakan data genap, untuk tugas nya silahkan lanjutkan untuk perhitungan menggunakan data ganjil
+- untuk modifikasi data ganjil silahkan ubah stored procedure least_square_data agar menampilkan data ganjil
+- untuk hasilnya silahkan kirimkan file hasil modifikasi ke email ariksofyan@stt-pomosda.ac.id
+- Jangan lupa sertakan Nim dan Nama
+- Hasil ditunggu sebelum pertemuan berikutnya (pertemuan setelah idul fitri)
