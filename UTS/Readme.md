@@ -1,0 +1,1 @@
+- Buatlah sebuah aplikasi dengan menggunakan metode Regresi Linier Berganda untuk memprediksi stock persediaan barang dengan meggunakan data yang sudah ada (data penjualan pada praktikum data mining)
