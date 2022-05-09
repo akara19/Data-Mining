@@ -1,1 +1,6 @@
-- Buatlah sebuah aplikasi dengan menggunakan metode Regresi Linier Berganda untuk memprediksi stock persediaan barang dengan meggunakan data yang sudah ada (data penjualan pada praktikum data mining)
+- Buatlah sebuah aplikasi dengan menggunakan metode Regresi Linier Berganda untuk memprediksi stock persediaan barang dengan meggunakan data yang sudah ada (data penjualan pada praktikum data mining).
+- Sebagai bahan refrensi terkait metode Regresi Liniear Berganda silahkan download jurnal yang ada pada halaman ini.
+- Dikerjakan secara berkelompok dengan anggota maksimal 1 kelompok terdiri dari 5 anggota.
+- Kirimkan hasil file source code ke email ariksofyan@stt-pomosda.ac.id dengan subject UTS_DATA_MINING_UNP_2022.
+- Sertakan juga NIM dan Nama mahasiswa.
+- Maksimal pengumpulan sebelum pertemuan minggu depan.
