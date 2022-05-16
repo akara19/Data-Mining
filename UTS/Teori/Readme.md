@@ -1,0 +1,4 @@
+- Buat review jurnal terkait prediksi dengan menggunakan metode naive bayes
+- Dikerjakan secara berkelompok maksimal 1 kelompok terdiri dari 3 anggota
+- Hasil dikirimkan ke email email ariksofyan@stt-pomosda.ac.id
+- Format jurnal dapat di download pada halaman ini
