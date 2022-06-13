@@ -6,3 +6,7 @@ Silahkan download file prak_data_mining
 - Metode yang akan di gunakan prediksi dengan Least Square
 - Metode CRUD menggunakan Stored Procedure
 - Database Mysql Server Comunity Edition V.5.xx atau MariaDB
+
+13-06-2022
+- Silahkan download file apriori_toko.zip
+- ini merupakan yang sudah jadi dibangun dengn bahasa PHP native
