@@ -2,7 +2,7 @@
 - Silahkan download file data_dummy.sql
 
 =======================================================
-Silahkan download file prak_data_mining
+- Silahkan download file prak_data_mining
 - Script ini menggunakan framework CodeIgniter V.3
 - Template colorlib
 - Case study Penjualan toko bangunan
