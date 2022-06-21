@@ -1,4 +1,7 @@
+- 21-06-2022
+- Silahkan download file data_dummy.sql
 
+=======================================================
 Silahkan download file prak_data_mining
 - Script ini menggunakan framework CodeIgniter V.3
 - Template colorlib
