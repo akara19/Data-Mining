@@ -1,1 +1,8 @@
-
+- Buat sebuah aplikasi penerapan data mining dengan menggunakan bahasa pemrogramam PHP
+- Untuk metode silahkan tentukan sendiri
+- Tugas project dikerjakam sacara berkelompok dengan anggota maksimal 7 mahasiswa
+- Buat dokumentasi aplikasi dalam bentuk word
+- Hasil dikirimkan ke email arik.sofan.tohir@gmail.com
+- Dengan subject email UAS_DM_UNP
+- Sertakan Nim dan nama mahasiswa
+- Hasil dtunggu sampai tanggal 23 Juli 2022
